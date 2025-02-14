@@ -72,31 +72,31 @@ This will:
 
 ### 1. Prices Over Time
 
-![prices_over_time.png](prices_over_time.png)
+![prices_over_time.png](images/prices_over_time.png)
 
 ### 2. Correlation Matrix
 
-![correlation.png](correlation.png)
+![correlation.png](images/correlation.png)
 
 ### 3. Key Metrics Comparison
 
-![key_metrics.png](key_metrics.png)
+![key_metrics.png](images/key_metrics.png)
 
 ### 4. Trading Strategy vs Buy & Hold
 
-![strategy1.png](strategy1.png)
+![strategy1.png](images/strategy1.png)
 
-![strategy2.png](strategy2.png)
+![strategy2.png](images/strategy2.png)
 
-![strategy3.png](strategy3.png)
+![strategy3.png](images/strategy3.png)
 
 ### 5. Optimal Portfolio Weights
 
-![weights.png](weights.png)
+![weights.png](images/weights.png)
 
 ### 6. Efficient Frontier with Optimal Portfolio
 
-![optimal_portfolio.png](optimal_portfolio.png)
+![optimal_portfolio.png](images/optimal_portfolio.png)
 
 ## Notes
 
